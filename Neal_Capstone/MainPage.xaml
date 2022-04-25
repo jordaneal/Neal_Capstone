@@ -6,7 +6,7 @@
     <ScrollView>
         <VerticalStackLayout Spacing="25" Padding="30">
             <Label 
-                Text="Hello, World!"
+                Text="Capstone"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
